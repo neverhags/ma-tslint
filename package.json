@@ -1,6 +1,6 @@
 {
   "name": "ma-tslint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mi Aguila default tslint rules",
   "main": "tslint.json",
   "scripts": {
