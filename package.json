@@ -1,0 +1,19 @@
+{
+  "name": "ma-tslint",
+  "version": "0.0.1",
+  "description": "Mi Aguila default tslint rules",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neverhags/ma-tslint.git"
+  },
+  "author": "Heilner Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neverhags/ma-tslint/issues"
+  },
+  "homepage": "https://github.com/neverhags/ma-tslint#readme"
+}
