@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/neverhags/ma-tslint/issues"
   },
-  "homepage": "https://github.com/neverhags/ma-tslint#readme"
+  "homepage": "https://github.com/neverhags/ma-tslint#readme",
+  "dependencies": {
+    "codelyzer": "^5.2.0",
+    "tslint-origin-ordered-imports-rule": "^1.2.2"
+  }
 }

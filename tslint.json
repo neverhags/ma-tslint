@@ -135,6 +135,6 @@
     },
     "rulesDirectory": [
       "codelyzer",
-      "node_modules/tslint-origin-ordered-imports-rule/dist"
+      "../tslint-origin-ordered-imports-rule/dist"
     ]
   }
